@@ -47,8 +47,8 @@ A Python-based security testing tool to assess the quality of Web Application Fi
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/waf-quality-tester.git
-cd waf-quality-tester
+git clone https://github.com/voxlink/waf_tester.git
+cd waf_tester
 pip install -r requirements.txt
 ```
 
